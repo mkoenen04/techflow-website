@@ -1,8 +1,10 @@
 # TechFlow Solutions Website
 
+[![Deploy to GitHub Pages](https://github.com/mkoenen04/techflow-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/mkoenen04/techflow-website/actions/workflows/deploy.yml)
+
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
-   Project deployed via GitHub Actions.
+Project deployed via GitHub Actions.
 
 ## Project Structure
 
